@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.24fc0468.css",
-    "main.js": "./static/js/main.403f3c82.js",
+    "main.css": "./static/css/main.3562c54f.css",
+    "main.js": "./static/js/main.e6dbf40c.js",
     "static/media/Roboto-Medium.ttf": "./static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Thin.ttf": "./static/media/Roboto-Thin.a732a12eb07742232407.ttf",
     "static/media/Roboto-Regular.ttf": "./static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -15,11 +15,11 @@
     "static/media/OpenSans-Light.ttf": "./static/media/OpenSans-Light.ba19b360bc99b580b45b.ttf",
     "static/media/DESIGNER.otf": "./static/media/DESIGNER.5bce54baf24bd63167e1.otf",
     "index.html": "./index.html",
-    "main.24fc0468.css.map": "./static/css/main.24fc0468.css.map",
-    "main.403f3c82.js.map": "./static/js/main.403f3c82.js.map"
+    "main.3562c54f.css.map": "./static/css/main.3562c54f.css.map",
+    "main.e6dbf40c.js.map": "./static/js/main.e6dbf40c.js.map"
   },
   "entrypoints": [
-    "static/css/main.24fc0468.css",
-    "static/js/main.403f3c82.js"
+    "static/css/main.3562c54f.css",
+    "static/js/main.e6dbf40c.js"
   ]
 }
